@@ -17,6 +17,8 @@ namespace ConsoleApp1
 
             Console.WriteLine("");
             Console.WriteLine("change on first branch");
+
+            Console.WriteLine("new line of text");
         }
     }
 }
